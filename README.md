@@ -1,2 +1,5 @@
-# Numerical-Analysis
-This repository contains the MATLAB code of algorithm in numerical analysis,and all the code is written by myself
+# Solving Linear Equations
+These four codes respectively realize Jacob iteration, Gauss Seidel iteration and Successive Over Relaxation(SOR) iteration for linear equations.
+Moreover,selectRelaxationFactor.m implements selection on relaxtion factor,which is a key parameter in SOR iteration.
+All the code is written by myself.
+Appreciate all the love
