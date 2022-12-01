@@ -2,4 +2,4 @@
 These four codes respectively realize Jacob iteration, Gauss Seidel iteration and Successive Over Relaxation(SOR) iteration for linear equations.
 Moreover,selectRelaxationFactor.m implements selection on relaxtion factor,which is a key parameter in SOR iteration.
 All the code is written by myself.
-Appreciate all the love
+
